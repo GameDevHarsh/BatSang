@@ -7,7 +7,7 @@ BatSang was our entry for the **College Game Awards**, developed by a team of th
 - **Game Mechanics:** I worked on implementing core game mechanics, utilizing techniques such as **splines, ragdolls, constraints, and inverse kinematics** to bring the gameplay to life.
 
 ## 📽 Gameplay Video
-(https://github.com/Spr3333/Hyper-Shooter/assets/107409407/8891d191-62cf-4c92-9b53-02f0d10949e6)
+https://github.com/Spr3333/Hyper-Shooter/assets/107409407/8891d191-62cf-4c92-9b53-02f0d10949e6
 
 ---
 
