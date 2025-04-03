@@ -20,7 +20,7 @@ https://github.com/Spr3333/Hyper-Shooter/assets/107409407/8891d191-62cf-4c92-9b5
 - UI & VFX Design
 
 ## 🎮Installation & How to Play
-1. Download and install the game from [Insert Download Link Here].
+1. Download and install the game from https://drive.google.com/file/d/1WwcxBJhKyQYsSMv5Ps8iS9FeyY7gqaBa/view?usp=drive_link.
 2. Run the game executable.
 3. Enjoy the immersive experience of **BatSang**!
 
